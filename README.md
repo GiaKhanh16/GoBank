@@ -1,4 +1,4 @@
-# 🏦 GoLang Bank Management API
+# GoLang Bank Management API
 
 A simple bank management API built with **Go**, demonstrating various Go features and best practices.
 
